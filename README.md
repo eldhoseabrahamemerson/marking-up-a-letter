@@ -22,7 +22,7 @@ The goal was to apply proper HTML structure and text-level semantics, not just m
 
 ## 🚀 Live Demo
 
-[View the hosted page here] https://eldhoseabrahamemerson.github.io/marking-up-a-letter/
+https://eldhoseabrahamemerson.github.io/marking-up-a-letter/
 
 ## 📁 Files
 
